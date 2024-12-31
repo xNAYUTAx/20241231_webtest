@@ -1,0 +1,45 @@
+body{
+    background-image: url(../images/wp11305326-witch-hat-atelier-wallpapers.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(71, 71, 71);
+}
+.bg_gray{
+    background-color: rgba(233, 233, 233, 0.6);
+}
+.top nav{ 
+	background-color: rgba(136, 136, 136, 0.6);
+	border-color: rgba(117, 117, 117, 0.6);
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+	background-color: #FFFFFF;
+	color: rgba(0,0,0,.9);
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
+	color: rgb(153, 153, 86);
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #969696;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+	color: rgb(103, 145, 87);
+}
+.img-fluid{
+    width: 50%;
+}
+.cartoonist_info ul{
+    list-style: none;
+    padding-left: 0;
+}
+.cartoonist_info ul li{
+    display: inline-block;
+    font-size: 30px;
+}
+.cartoonist_info ul li a{
+    color: #969696;
+}
+.cartoonist_info ul li a:hover{
+    color: rgb(103, 145, 87);
+}
